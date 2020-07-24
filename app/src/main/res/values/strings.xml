@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NSDark</string>
+    <string name="dia">Buen día</string>
+    <string name="noche">Buena noche</string>
+</resources>
